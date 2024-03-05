@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gallery1
+title: Gallery
 # subtitle: add subtitle here
 permalink: /gallery/
 gallery_path: "assets/img/isolates"
@@ -9,6 +9,6 @@ position: 3
 # tags: [Page]
 ---
 
-This gallery showcases a selection of microbial isolates from the ICECOLD Library.
+This page shows a selection of microbial isolates from the ICECOLD Library. Click on any image for further information about that isolate (not currently functional). A full listing of the isolates in the Library is available at (page).
 
 {% include gallery.html gallery_path=page.gallery_path %}
