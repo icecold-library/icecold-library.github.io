@@ -9,8 +9,8 @@ title: ICECOLD LIBRARY                # Name of website
 #favicon: assets/favicon.ico           # Icon displayed in the tab
 #color_theme: auto                     # color theme auto, dark or light
 
-#header_text: Welcome to my Jekyll blog
-#footer_text: Copyright 2024
+header_text: Innovative, Collaborative, Exploratory Cold Regions Organism Library for Discovery in Biotechnology
+footer_text: Copyright 2024
 
 #header_feature_image: assets/img/header/my-header-image.png
 #header_feature_image_responsive: true
