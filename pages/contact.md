@@ -9,11 +9,11 @@ permalink: /contact/
 
 The ICE COLD Library is maintained by the Soil Microbiology Group at the U.S. Army's [Cold Regions Research and Engineering Laboratory (CRREL)](https://www.erdc.usace.army.mil/Locations/CRREL/). We welcome enquiries regarding collaboration or other opportunities from academia, industry or government. Please contact Dr. Robyn A. Barbato for further information.
 
-  Dr. Robyn A. Barbato
+  Dr. Robyn A. Barbato  
   [Robyn.A.Barbato@erdc.dren.mil](mailto:Robyn.A.Barbato@erdc.dren.mil)
 
-  U.S. Army CRREL
-  72 Lyme Road
+  U.S. Army CRREL  
+  72 Lyme Road  
   Hanover NH 03755-1290
 
 ## About Us
