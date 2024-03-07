@@ -14,13 +14,13 @@ The ICE COLD library is maintained by the [Soil Microbiology Group](/contact) at
 
 ## Why keep a microbe collection?
 
- - Microbes can be used for biotechnology
+  ### Microbes can be used for biotechnology
 
   1. Bacteria produce a wide range of enzymes, proteins, and sugars, which can be harvested for use in synthetic biology applications.
 
   2. Psychrophiles and psychrotrophs may be able to carry out useful processes and interactions, such as bioremediation, in low-temperature conditions.
 
- - Microbes can inform critical environmental processes
+  ### Microbes can inform critical environmental processes
 
   1. As our climate warms, frozen regions of the planet will begin to thaw, releasing trapped carbon and previously dormant organisms into the ecosystem.
 
