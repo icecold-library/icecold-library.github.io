@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Contact
+# subtitle: add subtitle here
 permalink: /contact/
-#feature-img: "assets/img/pexels/travel.jpeg"
-#tags: [Page]
+position: 4
+# feature-img: "assets/img/pexels/travel.jpeg"
 ---
 
 
