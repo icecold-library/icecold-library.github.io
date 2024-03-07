@@ -9,7 +9,7 @@ ICE COLD is the **I**nnovative, **C**ollaborative, **E**xploratory **C**old Regi
 
 It is a collection of live microorganisms (i.e. bacteria and fungi) originating from cold regions soil, snow, and ice. Microbes have been isolated from the Arctic, from Antarctica, and from high altitude sites.
 
-The ICE COLD library is maintained by the Soil Microbiology Group at the U.S. Army's [Cold Regions Research and Engineering Laboratory (CRREL)](https://www.erdc.usace.army.mil/Locations/CRREL/).
+The ICE COLD library is maintained by the [Soil Microbiology Group](/contact) at the U.S. Army's Cold Regions Research and Engineering Laboratory (CRREL).
 
 ## Why keep a microbe collection?
 
