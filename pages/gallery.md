@@ -4,7 +4,7 @@ title: Gallery
 # subtitle: add subtitle here
 permalink: /gallery/
 position: 3
-# feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/feature_img/ice.jpg"
 gallery_path: "assets/img/isolates"
 ---
 

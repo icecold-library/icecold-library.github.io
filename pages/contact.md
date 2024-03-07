@@ -4,7 +4,7 @@ title: Contact
 # subtitle: add subtitle here
 permalink: /contact/
 position: 4
-# feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/feature_img/ice.jpg"
 ---
 
 

@@ -10,10 +10,10 @@ description: CRREL Psychrophile Library
 color_theme: auto # color theme auto, dark or light
 
 header_text: CRREL Psychrophile Library
-footer_text: Copyright 2024
+header_feature_image: "assets/img/feature_img/ice.jpg"
+header_feature_image_responsive: true
 
-#header_feature_image: assets/img/header/my-header-image.png
-#header_feature_image_responsive: true
+footer_text: Copyright 2024
 
 # BLOG CONFIGURATION
 post_navigation: true
