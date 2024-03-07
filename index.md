@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+position: 1
 ---
 
 ## What is the ICE COLD library?
