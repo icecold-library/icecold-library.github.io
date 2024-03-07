@@ -2,30 +2,36 @@
 layout: home
 ---
 
-Innovative, Collaborative, Exploratory Cold Regions Organism Library for Discovery in Biotechnology
+## What is the ICE COLD library?
 
-What is it?
+ICE COLD is the **I**nnovative, **C**ollaborative, **E**xploratory **C**old Regions **O**rganism **L**ibrary for **D**iscovery in Biotechnology
 
- - A collection of microorganisms (i.e. bacteria and fungi) originating from Cold Regions soil, snow, and ice.
+It is a collection of live microorganisms (i.e. bacteria and fungi) originating from cold regions soil, snow, and ice. Microbes have been isolated from the Arctic, from Antarctica, and from high altitude sites.
 
-Exciting Features of Microbes
+The ICE COLD library is maintained by the Soil Microbiology Group at the U.S. Army's [Cold Regions Research and Engineering Laboratory (CRREL)](https://www.erdc.usace.army.mil/Locations/CRREL/).
 
- - They can be used for biotechnology.
+## Why keep a microbe collection?
+
+ - Microbes can be used for biotechnology
 
   1. Bacteria produce a wide range of enzymes, proteins, and sugars, which can be harvested for use in synthetic biology applications.
 
   2. Psychrophiles and psychrotrophs may be able to carry out useful processes and interactions, such as bioremediation, in low-temperature conditions.
 
- - They can inform critical environmental processes.
+ - Microbes can inform critical environmental processes
 
   1. As our climate warms, frozen regions of the planet will begin to thaw, releasing trapped carbon and previously dormant organisms into the ecosystem.
 
   2. Culturing and characterizing these organisms helps to fill in our knowledge of environmental microbes.
 
-Where do they come from?
+## What do we do with the ICE COLD microbes?
 
-  1. Arctic
+After isolating microbes from the environment, we typically characterize their biology and sequence their DNA. Some of our research on the ICE COLD microbes can be found in [our publications](/publications).
 
-  2. Antarctic
+## Who can access the ICE COLD library?
 
-  3. High altitudes
+We primarily maintain the ICE COLD collection for our own research. However, we welcome enquiries regarding opportunities for collaboration and access to ICE COLD. Please [contact us](/contact) for further information.
+
+## What microbes are in the ICE COLD library?
+
+A list of the microbes available in ICE COLD and their known characteristics can be downloaded here (link to excel file). Additional information about selected microbes can be found in [our publications](/publications).
