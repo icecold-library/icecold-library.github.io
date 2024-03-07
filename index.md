@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 ---
 
 Innovative, Collaborative, Exploratory Cold Regions Organism Library for Discovery in Biotechnology
