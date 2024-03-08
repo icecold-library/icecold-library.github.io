@@ -28,6 +28,6 @@ At the U.S. Army's [Cold Regions Research and Engineering Laboratory (CRREL)](ht
 
 <img src="{{ '/assets/img/logos/USACE_dark_text.png' | relative_url }}" alt="USACE logo" style="width: 200px;" />
 
-<img src="{{ '/assets/img/logos/Army_dark_text.png' | relative_url }}" alt="U.S. Army style="width: 200px;" />
+<img src="{{ '/assets/img/logos/Army_dark_text.png' | relative_url }}" alt="U.S. Army" style="width: 200px;" />
 
 ---
