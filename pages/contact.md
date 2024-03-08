@@ -5,7 +5,6 @@ title: "Contact Us"
 permalink: /contact/
 position: 4
 feature-img: "assets/img/feature-img/ice.jpg"
-logos_path: "assets/img/logos_dark"
 ---
 
 The ICE COLD Library is maintained by the Soil Microbiology Group at the U.S. Army's [Cold Regions Research and Engineering Laboratory (CRREL)](https://www.erdc.usace.army.mil/Locations/CRREL/). We welcome enquiries regarding collaboration or other opportunities from academia, industry or government. Please contact Dr. Robyn Barbato for further information.
@@ -23,12 +22,6 @@ At the U.S. Army's [Cold Regions Research and Engineering Laboratory (CRREL)](ht
 
 ---
 
-<img src="{{ '/assets/img/logos/CRREL_dark_text.png' | relative_url }}" alt="CRREL logo" style="width: 200px;" />
-
-<img src="{{ '/assets/img/logos/ERDC_dark_text.png' | relative_url }}" alt="ERDC logo" style="width: 200px;" />
-
-<img src="{{ '/assets/img/logos/USACE_dark_text.png' | relative_url }}" alt="USACE logo" style="width: 200px;" />
-
-<img src="{{ '/assets/img/logos/Army_dark_text.png' | relative_url }}" alt="U.S. Army" style="width: 200px;" />
+<img src="{{ '/assets/img/logos/CRREL_dark_text.png' | relative_url }}" alt="CRREL logo" style="width: 50%; max-width: 400px; margin-left: auto; margin-left: auto;" />
 
 ---
