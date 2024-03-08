@@ -3,8 +3,8 @@ url: "https://icecold-library.github.io"
 
 remote_theme: sylhare/Type-on-Strap
 
-title: ICE COLD                           # Name of website
-avatar: assets/img/logos/CRREL_symbol_color.png
+title: ICE COLD
+avatar: assets/img/header/CRREL_symbol_color.png
 description: CRREL Psychrophile Library
 #favicon: assets/favicon.ico
 color_theme: auto # color theme auto, dark or light
