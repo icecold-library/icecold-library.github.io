@@ -27,6 +27,22 @@ At the U.S. Army's [Cold Regions Research and Engineering Laboratory (CRREL)](ht
 
 <img src="{{ '/assets/img/logos/CRREL_dark_text.png' | relative_url }}" alt="CRREL logo" width="50%" >
 
+<img src="/assets/img/logos/CRREL_dark_text.png" alt="CRREL logo" width=200 />
+
+<img src="{{ '/assets/img/logos/CRREL_dark_text.png' | relative_url }}" alt="CRREL logo" width=200 >
+
+<img src="/assets/img/logos/CRREL_dark_text.png" alt="CRREL logo" width=200px />
+
+<img src="{{ '/assets/img/logos/CRREL_dark_text.png' | relative_url }}" alt="CRREL logo" width=200px >
+
+<img src="/assets/img/logos/CRREL_dark_text.png" alt="CRREL logo" width="200" />
+
+<img src="{{ '/assets/img/logos/CRREL_dark_text.png' | relative_url }}" alt="CRREL logo" width="200" >
+
+<img src="/assets/img/logos/CRREL_dark_text.png" alt="CRREL logo" width="200px" />
+
+<img src="{{ '/assets/img/logos/CRREL_dark_text.png' | relative_url }}" alt="CRREL logo" width="200px" >
+
 ---
 
 <img src={{ "/assets/img/logos/CRREL_dark_text.png" | relative_url }} alt="CRREL logo" width=200 />
