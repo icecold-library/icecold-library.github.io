@@ -4,7 +4,7 @@ title: Gallery
 # subtitle: add subtitle here
 permalink: /gallery/
 position: 3
-feature-img: "assets/img/feature-img/pexels-kevin-blanzy-1130692_2480_1648.jpg"
+feature-img: "assets/img/feature-img/pexels-kevin-blanzy-1130692_2480_543.jpg"
 gallery_path: "assets/img/isolates"
 ---
 
