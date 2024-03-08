@@ -20,4 +20,4 @@ The ICE COLD Library is maintained by the Soil Microbiology Group at the U.S. Ar
 
 At the U.S. Army's [Cold Regions Research and Engineering Laboratory (CRREL)](https://www.erdc.usace.army.mil/Locations/CRREL/), our mission is to solve interdisciplinary, strategically important problems impacting Warfighters and the nation in cold and complex regions. CRREL is one of seven laboratories comprising the [Engineer Research and Development Center (ERDC)](https://www.erdc.usace.army.mil) within the [U.S. Army Corps of Engineers (USACE)](https://www.usace.army.mil).
 
-{% include aligner.html images="logos/CRREL_symbol_color.png,logos/ERDC_symbol_3.png,logos/USACE_symbol.png,logos/Army_symbol.png" column=4 %}
+<img src="{{ '/assets/img/logos/CRREL_dark_text.png | relative_url }}" alt="CRREL logo" width="50%" />
