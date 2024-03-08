@@ -33,13 +33,13 @@ At the U.S. Army's [Cold Regions Research and Engineering Laboratory (CRREL)](ht
 
 ---
 
-<img src="{{ '/assets/img/logos/CRREL_dark_text.png' | relative_url }}" alt="CRREL logo" width="50%" />
+<img src="{{ '/assets/img/logos/CRREL_dark_text.png' | relative_url }}" alt="CRREL logo" width="400" />
 
-<img src="{{ '/assets/img/logos/ERDC_dark_text.png' | relative_url }}" alt="ERDC logo" width="50%" />
+<img src="{{ '/assets/img/logos/ERDC_dark_text.png' | relative_url }}" alt="ERDC logo" width="400" />
 
-<img src="{{ '/assets/img/logos/USACE_dark_text.png' | relative_url }}" alt="USACE logo" width="50%" />
+<img src="{{ '/assets/img/logos/USACE_dark_text.png' | relative_url }}" alt="USACE logo" width="400" />
 
-<img src="{{ '/assets/img/logos/Army_dark_text.png' | relative_url }}" alt="U.S. Army logo" width="50%" />
+<img src="{{ '/assets/img/logos/Army_dark_text.png' | relative_url }}" alt="U.S. Army logo" width="400" />
 
 ---
 
