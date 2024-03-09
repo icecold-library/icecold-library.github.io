@@ -5,6 +5,7 @@ title: Gallery
 permalink: /gallery/
 position: 3
 feature-img: "assets/img/feature-img/pexels-tomáš-malík-3607082_2480_1279.jpg"
+feature-img-credit: Banner image derived from a <a href="https://www.pexels.com/photo/ice-cave-3607082/">photo by Tomáš Malík</a>
 gallery_path: "assets/img/isolates"
 ---
 

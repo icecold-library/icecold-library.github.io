@@ -5,6 +5,8 @@ title: Publications
 permalink: /publications/
 position: 2
 feature-img: "assets/img/feature-img/pexels-james-cheney-7002768_2480_1280.jpg"
+feature-img-credit: Banner image derived from a <a href="https://www.pexels.com/photo/water-droplets-on-blue-surface-7002768/">photo by James Cheney</a>
+gallery_path: "assets/img/isolates"
 ---
 
 Corriveau, E.J., T.L. Thornell, M.G. Ucak-Astarlioglu, D.N. Wedgeworth, H.A. Hanna, R.M. Jones, A.K. Thurston and R.A. Barbato (2023). Characterization of pigmented microbial isolates for use in material applications. U.S. Army Engineer Research and Development Center Technical Report ERDC TR-23-3. [DOI:10.21079/11681/46633](https://hdl.handle.net/11681/46633)
