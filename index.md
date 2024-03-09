@@ -36,4 +36,4 @@ We primarily maintain the ICE COLD collection for our own research. However, we 
 
 ## What microbes are in the ICE COLD library?
 
-A list of the microbes available in ICE COLD and their known characteristics can be downloaded here (link to excel file). Additional information about selected microbes can be found in [our publications](/publications).
+A list of the microbes available in ICE COLD and their known characteristics can be downloaded here (catalog.xlsx). Additional information about selected microbes can be found in [our publications](/publications). Some isolates from the collection are featured in the [image gallery](/gallery) on this website.
