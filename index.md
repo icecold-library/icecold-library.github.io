@@ -20,7 +20,7 @@ The ICE COLD library is maintained by the [Soil Microbiology Group](/contact) at
 
   - Psychrophiles and psychrotrophs may be able to carry out useful processes and interactions, such as bioremediation, in low-temperature conditions.
 
-#### Microbes can inform critical environmental processes
+#### Microbes drive critical environmental processes
 
   - As our climate warms, frozen regions of the planet will begin to thaw, releasing trapped carbon and previously dormant organisms into the ecosystem. Culturing and characterizing these organisms helps to fill in our knowledge of environmental microbes.
 
