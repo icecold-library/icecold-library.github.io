@@ -14,6 +14,7 @@ header_feature_image: "assets/img/feature-img/pexels-kristoffer-brink-jonsson-16
 header_feature_image_responsive: false
 
 footer_text: Designed by <a href="https://bakerccm.github.io">@bakerccm</a> for <a href="https://www.erdc.usace.army.mil/Locations/CRREL/">CRREL</a> &copy; 2024
+footer_theme_credit: Powered by <a href='https://jekyllrb.com/'>Jekyll</a> with <a href='https://github.com/sylhare/Type-on-Strap'>Type on Strap</a>
 footer_image_credit: Banner image derived from a <a href="https://www.pexels.com/photo/body-of-water-under-gray-clouds-1647220/">photo by Kristoffer Brink Jonsson</a>
 
 # BLOG CONFIGURATION
