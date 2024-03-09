@@ -11,7 +11,7 @@ color_theme: auto # color theme auto, dark or light
 
 header_text: CRREL Psychrophile Library
 header_feature_image: "assets/img/feature-img/pexels-kristoffer-brink-jonsson-1647220.jpg"
-header_feature_image_responsive: true
+header_feature_image_responsive: false
 
 footer_text: Designed by <a href="https://bakerccm.github.io">@bakerccm</a> for <a href="https://www.erdc.usace.army.mil/Locations/CRREL/">CRREL</a> &copy; 2024
 
