@@ -3,9 +3,9 @@
     <p class="text">
         {{ site.footer_text | default: "Powered by <a href='https://jekyllrb.com/'>Jekyll</a> with <a href='https://github.com/sylhare/Type-on-Strap'>Type on Strap</a>" }}</br>
     {% if page.layout == "home" %}
-        {{ site.header_feature_credit | default: " " }}
+        {{ site.footer_image_credit | default: " " }}
     {% elsif page.layout == "page" %}
-        {{ include.footer-credit | default: " " }}
+        {{ page.footer-image-credit | default: " " }}
     {% endif %}
     </p>
     <div class="footer-icons">
