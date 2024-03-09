@@ -5,7 +5,7 @@ title: Publications
 permalink: /publications/
 position: 2
 feature-img: "assets/img/feature-img/pexels-james-cheney-7002768_2480_1280.jpg"
-footer-image-credit: Banner image derived from a <a href="https://www.pexels.com/photo/water-droplets-on-blue-surface-7002768/">photo by James Cheney</a>
+footer-image-credit: Banner derived from a <a href="https://www.pexels.com/photo/water-droplets-on-blue-surface-7002768/">photo by James Cheney</a>
 gallery_path: "assets/img/isolates"
 ---
 
