@@ -7,7 +7,7 @@ title: ICE COLD
 avatar: assets/img/logos/CRREL_symbol_color.png
 description: CRREL Psychrophile Library
 favicon: assets/img/logos/CRREL_symbol_favicon.ico
-color_theme: auto # color theme auto, dark or light
+color_theme: dark # color theme auto, dark or light
 
 header_text: CRREL Psychrophile Library
 header_feature_image: "assets/img/feature-img/pexels-kristoffer-brink-jonsson-1647220.jpg"
