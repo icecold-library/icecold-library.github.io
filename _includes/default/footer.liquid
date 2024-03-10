@@ -1,12 +1,12 @@
 <footer class="site-footer">
-    <img src="{{ '/assets/img/logos/CRREL_dark_text.png' | relative_url }}" alt="CRREL logo" style="width: 100%; padding: 0 25%;" />
+    <img src="{{ site.footer_image | relative_url }}" alt="{{ site.footer_image_alt_text }}" style="width: 100%; padding: 0 25%;" />
     <p class="text">
-        {{ site.footer_text | default: "Powered by <a href='https://jekyllrb.com/'>Jekyll</a> with <a href='https://github.com/sylhare/Type-on-Strap'>Type on Strap</a>" }}</br>
+        {{ site.footer_text | default: " " }}</br>
         {{ site.footer_theme_credit | default: " " }}</br>
         {% if page.layout == "home" %}
-            {{ site.footer_image_credit | default: " " }}
+            {{ site.footer_banner_credit | default: " " }}
         {% elsif page.layout == "page" %}
-            {{ page.footer-image-credit | default: " " }}
+            {{ page.footer-banner-credit | default: " " }}
         {% endif %}
     </p>
     <div class="footer-icons">
