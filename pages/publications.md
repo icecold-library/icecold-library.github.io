@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Publications
-# subtitle: add subtitle here
 permalink: /publications/
 position: 2
 feature-img: "assets/img/feature-img/pexels-james-cheney-7002768_2480_1280.jpg"

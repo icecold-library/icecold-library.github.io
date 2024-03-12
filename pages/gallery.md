@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Gallery
-# subtitle: add subtitle here
 permalink: /gallery/
 position: 3
 feature-img: "assets/img/feature-img/pexels-tomáš-malík-3607082_2480_1279.jpg"

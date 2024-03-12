@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Contact Us"
-# subtitle: add subtitle here
 permalink: /contact/
 position: 4
 feature-img: "assets/img/feature-img/pexels-julia-volk-7099847_2480_1280.jpg"
